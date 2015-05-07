@@ -1,0 +1,4 @@
+set (Static_Linked ON)
+
+SET (LINUX_BASE /usr)
+SET (LINUX_LIB_BASE /usr/lib/)
