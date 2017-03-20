@@ -2,3 +2,6 @@ set (Static_Linked ON)
 
 SET (LINUX_BASE /usr)
 SET (LINUX_LIB_BASE /usr/lib/)
+
+# set path to your libqjson.so
+SET (QJSON_LIB /usr/lib/x86_64-linux-gnu/libqjson.so)

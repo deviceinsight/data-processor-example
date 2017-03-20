@@ -2,7 +2,7 @@
 #define COMMUNICATION_HANDLER_H
 
 #include <QtCore>
-#include "util\JsonUtil.h"
+#include "util/JsonUtil.h"
 
 class CommunicationHandler :  public QThread {
 

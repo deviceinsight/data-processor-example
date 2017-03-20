@@ -22,6 +22,7 @@ add_executable(external-data-processor-example ${external_data_processor_HEADERS
 SET(LIBRARIES
     ${QT_QTCORE_LIBRARY}
     ${QT_LIBRARIES}
+    ${QJSON_LIB}
    )
 
 target_link_libraries(external-data-processor-example ${LIBRARIES})

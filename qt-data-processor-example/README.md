@@ -8,6 +8,10 @@ Create config file:
     
     cp local.cmake.template local.cmake
 
+Dependency:
+
+    libjson: http://qjson.sourceforge.net/ 
+
 Compile with:
 
     mkdir build
